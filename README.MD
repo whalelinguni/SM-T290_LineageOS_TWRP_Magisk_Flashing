@@ -1,5 +1,3 @@
-# WIP!!! Uploading Files Now! 
-# !!!
 
 # Samsung Galaxy Tab 8 (GTOWIFI) LineageOS + TWRP + Magisk
 
